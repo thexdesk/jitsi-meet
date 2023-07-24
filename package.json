@@ -50,7 +50,7 @@
     "jQuery-Impromptu": "github:trentrichardson/jQuery-Impromptu#v6.0.0",
     "jitsi-meet-logger": "github:jitsi/jitsi-meet-logger#5ec92357570dc8f0b7ffc1528820721c84c6af8b",
     "jquery": "3.4.0",
-    "jquery-contextmenu": "2.4.5",
+    "jquery-contextmenu": "2.9.2",
     "jquery-i18next": "1.2.1",
     "js-md5": "0.6.1",
     "js-utils": "github:jitsi/js-utils#8567f86ec2774ae1d1c47b22e3435928cf5d9771",
