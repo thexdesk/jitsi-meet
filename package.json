@@ -84,7 +84,7 @@
     "react-native-webview": "7.4.1",
     "react-redux": "7.1.0",
     "react-textarea-autosize": "7.1.0",
-    "react-transition-group": "2.4.0",
+    "react-transition-group": "2.9.0",
     "redux": "4.0.4",
     "redux-thunk": "2.2.0",
     "rnnoise-wasm": "github:jitsi/rnnoise-wasm.git#db96d11f175a22ef56c7db1ba9550835b716e615",
